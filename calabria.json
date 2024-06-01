@@ -1,0 +1,102 @@
+{
+    "name": "Calabria",
+    "children": [
+     {
+      "name": "Catanzaro",
+      "children": [
+       {"name": "Albi", "size":3},
+       {"name": "Belcastro", "size": 1},
+       {"name": "Cerva", "size": 3},
+       {"name": "Curinga", "size": 1},
+       {"name": "Sorbo San Basile", "size": 1},
+       {"name": "Taverna", "size": 7}
+      ]
+       
+      
+     },
+    
+     {
+      "name": "Cosenza",
+      "children": [
+       {"name": "Albidona", "size": 3},
+       {"name": "Aprigliano", "size": 3},
+       {"name": "Belmonte Calabro", "size": 1},
+       {"name": "Buonvicino", "size": 1},
+       {"name": "Castrovillari", "size": 2},
+       {"name": "Cerchiara di Calabria", "size": 3},
+       {"name": "Cerzeto", "size": 1},
+       {"name": "Corigliano-Rossano", "size": 3},
+       {"name": "Fagnano Castello", "size": 3},
+       {"name": "Grisolia", "size": 3},
+       {"name": "Laino", "size": 1},
+       {"name": "Longobucco", "size": 3},
+       {"name": "Marzi", "size": 2},
+       {"name": "Morano Calabro", "size": 2},
+       {"name": "Pedace", "size": 1},
+       {"name": "Rogliano", "size": 2},
+       {"name": "San Basile", "size": 2},
+       {"name": "San Giovanni in Fiore", "size": 1},
+       {"name": "San Pietro in Amantea", "size": 1},
+       {"name": "Santa Sofia d'Epiro", "size": 1},
+       {"name": "Sant'Agata di Esaro", "size": 1},
+       {"name": "Serra Pedace", "size": 1},
+       {"name": "Spezzano della Sila", "size": 2},
+       {"name": "Spezzano Piccolo", "size": 2},
+       {"name": "Terravecchia", "size": 1},
+       {"name": "Trebisacce", "size": 3}
+      ]
+     },
+    
+     {
+      "name": "Crotone",
+      "children": [
+       {"name": "Cirò", "size": 2},
+       {"name": "Cotronei", "size": 2},
+       {"name": "Crotone", "size": 1},
+       {"name": "Crucoli", "size": 1},
+       {"name": "Mesoraca", "size": 4},
+       {"name": "Petilia Policastro", "size": 2},
+       {"name": "Roccabernarda", "size": 1},
+       {"name": "Santa Severina", "size": 1}
+     
+      
+      ]
+     },
+     {
+      "name": "Reggio Calabria",
+      "children": [
+       {"name": "Bagaladi", "size": 1},
+       {"name": "Bivongi", "size": 1},
+       {"name": "Cardeto", "size": 1},
+       {"name": "Cittanova", "size": 2},
+       {"name": "Condofuri", "size": 1},
+       {"name": "Fiumara", "size": 1},
+       {"name": "Oppido Mamertina", "size": 1},
+       {"name": "Reggio di Calabria", "size": 6},
+       {"name": "Roghudi", "size": 1},
+       {"name": "Samo", "size": 46},
+       {"name": "San Lorenzo", "size": 1},
+       {"name": "San Luca", "size": 2},
+       {"name": "Santa Cristina d'Aspromonte", "size": 3},
+       {"name": "Sant'Eufemia d'Aspromonte", "size": 1},
+       {"name": "Santo Stefano in Aspromonte", "size": 1},
+       {"name": "Scilla", "size": 4}
+      
+      ]
+     },
+     {
+      "name": "Vibo Valentia",
+      "children": [
+       {"name": "Arena", "size": 1},
+       {"name": "Fabrizia", "size": 1},
+       {"name": "Mongiana", "size": 1},
+       {"name": "Serra San Bruno", "size": 4},
+       {"name": "Simbario", "size": 1}
+      
+      ]
+     }
+     
+     
+    ]
+   }
+    
